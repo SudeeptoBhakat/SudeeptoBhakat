@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer+and+Problem+Solver;Python+%7C+Django+%7C+REST+APIs;Building+Scalable+Web+Applications;Data+Structures+and+Algorithms;Continuous+Learning+and+Development" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer+and+Problem+Solver;Python+%7C+Django+%7C+REST+APIs;Building+Scalable+Web+Applications;Data+Structures+and+Algorithms;" />
 
 </div>
 
@@ -33,7 +33,6 @@
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-red?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 
 ---
 
